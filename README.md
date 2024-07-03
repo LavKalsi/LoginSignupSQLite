@@ -11,24 +11,20 @@ A Kotlin-based Android app that allows users to register, login, and securely st
 
 ## Screenshots
 
-| Feature | Screenshot |
-|---------|-------------|
-| Start Screen | <img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/StartScreen.png" width="200" height="446"/> |
-| Signup Screen | <img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Signup.png" width="200" height="446"/> |
-| Login Screen | <img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Login.png" width="200" height="446"/> |
-| Homepage | <img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/HomePage.png" width="200" height="446"/> |
-| Icon | <img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/icon.png" width="200" height="200"/> |
-
 <table>
   <tr>
+    <td align="center">Start Screen</td>
     <td align="center">Signup Screen</td>
     <td align="center">Login Screen</td>
     <td align="center">Homepage</td>
+    <td align="center">Icon</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/screenshots/signup.png" width="200" height="356"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/screenshots/login.png" width="200" height="356"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/screenshots/homepage.png" width="200" height="356"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/StartScreen.png" width="200" height="446"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Signup.png" width="200" height="446"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Login.png" width="200" height="446"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/HomePage.png" width="200" height="446"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/icon.png" width="200" height="200"/></td>
   </tr>
 </table>
 

@@ -20,11 +20,11 @@ A Kotlin-based Android app that allows users to register, login, and securely st
     <td align="center">Icon</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/StartScreen.png" width="100" height="223"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Signup.png" width="100" height="223"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Login.png" width="100" height="223"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/HomePage.png" width="100" height="223"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/icon.png" width="100" height="100"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/StartScreen.png" width="120" height="268"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Signup.png" width="120" height="268"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Login.png" width="120" height="268"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/HomePage.png" width="120" height="268"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/icon.png" width="120" height="120"/></td>
   </tr>
 </table>
 

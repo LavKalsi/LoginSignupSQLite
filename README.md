@@ -24,7 +24,7 @@ A Kotlin-based Android app that allows users to register, login, and securely st
     <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Signup.png" width="150" height="334"/></td>
     <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/Login.png" width="150" height="334"/></td>
     <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/HomePage.png" width="150" height="334"/></td>
-    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/icon.png" width="150" height="150"/></td>
+    <td><img src="https://github.com/LavKalsi/LoginSignupSQLite/blob/master/Screenshots/icon.png" width="120" height="120"/></td>
   </tr>
 </table>
 
